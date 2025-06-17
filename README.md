@@ -19,6 +19,10 @@ Jika tidak sesuai, bot akan **otomatis dihentikan** untuk mencegah penyalahgunaa
 
 ```json
 {
-  "botNumber": "6281234567890",
-  "serverIP": "192.168.1.10"
+  "nomor": [
+    "6281234567890"
+  ],
+  "ip": [
+    "123.45.678.90"
+  ]
 }
